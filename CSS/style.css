@@ -3,3 +3,31 @@ display: inline-block;
 vertical-align: top;
 }
 
+.inline-blockLogo {
+    width: 23%;
+    padding: 1%;
+}
+
+nav {
+    width: 73%;
+    margin-left: 1%;
+}
+
+ul {
+    width: 50%;
+    margin-left: auto;
+}
+
+.inline-blockLogo {
+    text-align: center;
+}
+
+.heroImg {
+    height: 600px;
+    padding: 25px;
+}
+
+.content {
+    width: 500px;
+    margin: 0 auto;
+}
