@@ -9,8 +9,10 @@ vertical-align: top;
 }
 
 nav {
-    width: 73%;
+    width: 73%%
+    padding: 1%
     margin-left: 1%;
+    margin-right: 0%;
     background-color:rgb(255, 201, 201)
 }
 
@@ -26,6 +28,7 @@ ul {
 .heroImg {
     height: 600px;
     padding: 25px;
+    position: static;
 }
 
 .content {
@@ -35,9 +38,10 @@ ul {
 
 .footer {
     background-color: #373738;
-    padding: 20px;
-    color: rgb(255, 201, 201);
+    padding: 25px;
     width: 100%;
+    position: fixed;
+    color: rgb(255, 201, 201);
     text-align: center;
 }
 
